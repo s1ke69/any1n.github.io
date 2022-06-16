@@ -43,6 +43,16 @@ h1{
 .Countdown-el span{
     font-size: 1.5rem;
 }
+a{
+    font-size: 10rem;
+    margin-top: 15rem;
+    color: Blue;
+    border: none;
+    text-decoration: none;
+}
+a:hover{
+    color: aquamarine;
+}
 
 @media(max-width:998px){
     html{
