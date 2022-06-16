@@ -42,3 +42,16 @@ h1{
 .Countdown-el span{
     font-size: 1.5rem;
 }
+
+
+@media(max-width:998px){
+    html{
+        font-size: 55%;
+    }
+}
+
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    }
+}
