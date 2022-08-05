@@ -21,6 +21,11 @@ navBar.forEach(function(a){
     })
 })
 
+const button = document.getElementById('klo')
+setTimeout(()=>{
+    // button.click;
+    console.log(button.click());
+},5000)
 
 
 
